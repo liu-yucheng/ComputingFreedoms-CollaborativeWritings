@@ -1,2 +1,1 @@
-# FromComputingFreedomsToCollaborativeWritings
-From Computing Freedom To Collaborative Writings
+
